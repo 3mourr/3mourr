@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Omar+Reda;&color=800080" />
 </h1>
 
-<h3>A passionate Bugbounty Hunter & Weeb Development </h3>
+<h3>A passionate Cybersecurity </h3>
 
 <br/>
 
@@ -15,9 +15,9 @@
 
 
 
-🔭 Bug bounty hunter exploring web security and ethical hacking.<br/>
+🔐 Cybersecurity enthusiast passionate about securing systems and defending against cyber threats.<br/>
 🎓 Studied [Business Information Systems](https://www.gsu.edu/) at at Cairo University & Georgia State University.<br/>
-🌱 I’m currently learning advanced JavaScript, web security, and automation for recon.
+
 
 
 
