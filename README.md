@@ -15,8 +15,8 @@
 
 
 
-🔐 Cybersecurity enthusiast passionate about securing systems and defending against cyber threats.<br/>
 🎓 Studied [Business Information Systems](https://www.gsu.edu/) at at Cairo University & Georgia State University.<br/>
+🔐 Cybersecurity enthusiast passionate about securing systems and defending against cyber threats.<br/>
 
 
 
